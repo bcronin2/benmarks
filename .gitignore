@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+/node_modules
+/dist
+/frontend/node_modules
+/frontend/static
+/frontend/components

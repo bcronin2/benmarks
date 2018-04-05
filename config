@@ -1,0 +1,10 @@
+#Personal GitHub
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa_PERSONAL
+
+Host github-tenmarks
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa
